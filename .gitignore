@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# C
+*.o
+*.obj
+*.exe
+*.out
+
+# JetBrains IDEs
+.idea/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project-specific
+report.txt
+*.csv
+reverse_scanner.exe
+
+# ETC
+samples/
